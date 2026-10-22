@@ -1,0 +1,25 @@
+{
+  "name": "نظام إدارة مهام السلامة والصحة المهنية",
+  "short_name": "إدارة المهام",
+  "description": "نظام إدارة ومتابعة مهام السلامة والصحة المهنية",
+  "start_url": "./TaskManager.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef3f8",
+  "theme_color": "#b56f72",
+  "orientation": "portrait",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "assets/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
